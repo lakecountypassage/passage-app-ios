@@ -1,7 +1,5 @@
 Licenses:
 
----
-
 CosmicMind/Material - 
 https://github.com/CosmicMind/Material
 
