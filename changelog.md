@@ -1,7 +1,7 @@
 v1.0 (2010-ish)
 - initial app
 
-v2.0 (May 1st, 2019)
+v2.0 (May 9th, 2019)
 - Complete redesign of the app's user interface
 - Real-time incident and roadwork events now have more details
 - List of incident and roadwork events
@@ -10,4 +10,5 @@ v2.0 (May 1st, 2019)
 - Snapshots have full screen and zoom controls
 - Reporting feature with incident type and user's location
 - Quick shortcuts to call or email the Transportation Management Center (TMC)
+- iPad support
 - Updated to the latest iOS Swift support
