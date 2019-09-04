@@ -1,5 +1,17 @@
-v1.0 (2010-ish)
-- initial app
+v2.2 (Sept 4th, 2019)
+- Dark theme! (uses iOS13 system settings)
+- Add support for iOS13
+- New Google base map theme (for both light and dark themes)
+- Added support for "open" events (after a road closure)
+- Bug fixes
+
+v2.1 (Aug 12th, 2019)
+- Add Highway Advisory Radio (HAR 1620AM) player
+- Add Snowplows/AVL support (Coming fall 2019)
+- Add In-app messaging
+- Add remote config
+- Add the ability to toggle AVL layer remotely (remote config)
+- Other fixes/cleanup
 
 v2.0 (May 9th, 2019)
 - Complete redesign of the app's user interface
@@ -12,3 +24,6 @@ v2.0 (May 9th, 2019)
 - Quick shortcuts to call or email the Transportation Management Center (TMC)
 - iPad support
 - Updated to the latest iOS Swift support
+
+v1.0 (2010-ish)
+- initial app
