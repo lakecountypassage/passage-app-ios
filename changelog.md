@@ -1,10 +1,13 @@
-v2.2 (Sept 4th, 2019)
+v2.2.1 (Soon)
+- Built for iOS13
 - Dark theme! (uses iOS13 system settings)
-- Add support for iOS13
-- New Google base map theme (for both light and dark themes)
+- User configurable theme override - coming soon, iOS13 only
+
+v2.2 (Sept 4th, 2019)
+- Add initial support for iOS13
+- New Google base map theme (for both light and dark modes)
 - Added support for "open" events (after a road closure)
 - Bug fixes
-- User configurable theme override - coming soon, iOS13 only
 
 v2.1 (Aug 12th, 2019)
 - Add Highway Advisory Radio (HAR 1620AM) player
