@@ -1,6 +1,7 @@
 v2.2.1 (Soon)
 - Built for iOS13
 - Dark theme! (uses iOS13 system settings)
+- Snowplow vehicle layer, including plowing information and snapshots
 - User configurable theme override - coming soon, iOS13 only
 
 v2.2 (Sept 7th, 2019)
